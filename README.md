@@ -1,7 +1,9 @@
 <h1>SearchInFilesUtilApp</h1>
+
 An application for searching strings in files from a folder.
 
 <h3>Preparation</h3>
+
 Configure the startup parameters in the file **config.properties**:
 
 * parameter <em>multiThread.mode</em> specifies the mode of operation of the application (multithreaded or single-threaded);
